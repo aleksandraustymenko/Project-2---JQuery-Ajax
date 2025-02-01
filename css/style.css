@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: #a72323;
+}
+
+section {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.btn-animate {
+  transition: background-color 0.5s ease-in-out;
+}

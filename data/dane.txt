@@ -1,0 +1,13 @@
+Witamy na stronie  Aplikacje WWW!
+Ta strona jest przykładem użycia technologii AJAX do wczytywania treści.
+Dane użytkowników pochodzą z pliku JSON.
+
+
+Bootstrap
+Bootstrap to popularny framework CSS, który umożliwia szybkie tworzenie responsywnych i estetycznych stron internetowych. Dzięki wbudowanej siatce, gotowym komponentom i stylom CSS, można łatwo dostosować stronę do różnych rozdzielczości ekranów. Bootstrap znacznie ułatwia proces projektowania.
+
+jQuery
+jQuery to biblioteka JavaScript, która upraszcza manipulację DOM (Document Object Model), obsługę zdarzeń oraz AJAX. Dzięki jQuery można pisać krótszy, bardziej zwięzły kod JavaScript, który działa na wielu przeglądarkach bez konieczności pisania kodu kompatybilnego z różnymi wersjami przeglądarek.
+
+
+

@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "name": "Jan Kowalski",
+        "email": "jan.kowalski@example.com"
+      },
+      {
+        "name": "Anna Nowak",
+        "email": "anna.nowak@example.com"
+      },
+      {
+        "name": "Marek Wiśniewski",
+        "email": "marek.wisniewski@example.com"
+      }
+    ]
+  }
